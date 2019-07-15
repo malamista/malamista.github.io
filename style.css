@@ -1,0 +1,29 @@
+body{
+	background-image: url(glitter.jpg);
+}
+h1{
+	position:absolute;
+	left:480px;
+	top:200px;
+	font-family: 'Literata', serif;
+	color: #701334;
+font-size:3em;
+}
+button{
+	position: absolute;
+	background-color: #701334;
+	border: 2px solid black;
+ font-size: 24px;
+ font-family: "times new roman";
+ text-transform: uppercase;
+ text-align:center;
+ padding: 14px 40px;
+ border-radius:12px;
+ top:50%;
+ left:40%;
+ cursor: pointer;
+
+}
+#mc_embed_signup{
+	align-items: center;
+}
